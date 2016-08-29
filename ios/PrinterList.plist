@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Brother RJ-4040</key>
+	<dict>
+		<key>Capabilities</key>
+		<dict>
+			<key>FuncDensity</key>
+			<true/>
+			<key>FuncCustomPaper</key>
+			<true/>
+			<key>FuncAutoCut</key>
+			<false/>
+			<key>FuncChainPrint</key>
+			<false/>
+			<key>FuncHalfCut</key>
+			<false/>
+			<key>FuncSpecialTape</key>
+			<false/>
+			<key>FuncCopies</key>
+			<false/>
+			<key>FuncCarbonPrint</key>
+			<false/>
+			<key>FuncDashPrint</key>
+			<false/>
+			<key>FuncFeedMode</key>
+			<false/>
+		</dict>
+		<key>PaperSize</key>
+		<array>
+			<string>Custom</string>
+			<string>RD 58mm</string>
+			<string>RD 102mm</string>
+			<string>RD 50mm x 85mm</string>
+			<string>RD 60mm x 92mm</string>
+			<string>RD 80mm x 115mm</string>
+			<string>RD 115mm x 80mm</string>
+			<string>RD 102mm x 26mm</string>
+			<string>RD 102mm x 50mm</string>
+			<string>RD 102mm x 76mm</string>
+			<string>RD 102mm x 102mm</string>
+			<string>RD 102mm x 152mm</string>
+		</array>
+	</dict>
+	<key>Brother RJ-3150</key>
+	<dict>
+		<key>Capabilities</key>
+		<dict>
+			<key>FuncDensity</key>
+			<true/>
+			<key>FuncCustomPaper</key>
+			<true/>
+			<key>FuncAutoCut</key>
+			<false/>
+			<key>FuncChainPrint</key>
+			<false/>
+			<key>FuncHalfCut</key>
+			<false/>
+			<key>FuncSpecialTape</key>
+			<false/>
+			<key>FuncCopies</key>
+			<false/>
+			<key>FuncCarbonPrint</key>
+			<false/>
+			<key>FuncDashPrint</key>
+			<false/>
+			<key>FuncFeedMode</key>
+			<false/>
+		</dict>
+		<key>PaperSize</key>
+		<array>
+			<string>Custom</string>
+			<string>RD 50mm</string>
+			<string>RD 58mm</string>
+			<string>RD 76mm</string>
+			<string>RD 80mm</string>
+			<string>RD 50mm x 85mm</string>
+			<string>RD 60mm x 92mm</string>
+			<string>RD 76mm x 44mm</string>
+		</array>
+	</dict>
+	<key>Brother RJ-3050</key>
+	<dict>
+		<key>Capabilities</key>
+		<dict>
+			<key>FuncDensity</key>
+			<true/>
+			<key>FuncCustomPaper</key>
+			<true/>
+			<key>FuncAutoCut</key>
+			<false/>
+			<key>FuncChainPrint</key>
+			<false/>
+			<key>FuncHalfCut</key>
+			<false/>
+			<key>FuncSpecialTape</key>
+			<false/>
+			<key>FuncCopies</key>
+			<false/>
+			<key>FuncCarbonPrint</key>
+			<false/>
+			<key>FuncDashPrint</key>
+			<false/>
+			<key>FuncFeedMode</key>
+			<false/>
+		</dict>
+		<key>PaperSize</key>
+		<array>
+			<string>Custom</string>
+			<string>RD 50mm</string>
+			<string>RD 58mm</string>
+			<string>RD 76mm</string>
+			<string>RD 80mm</string>
+		</array>
+	</dict>
+	<key>Brother QL-710W</key>
+	<dict>
+		<key>Capabilities</key>
+		<dict>
+			<key>FuncDensity</key>
+			<true/>
+			<key>FuncCustomPaper</key>
+			<true/>
+			<key>FuncAutoCut</key>
+			<true/>
+			<key>FuncChainPrint</key>
+			<false/>
+			<key>FuncHalfCut</key>
+			<false/>
+			<key>FuncSpecialTape</key>
+			<false/>
+			<key>FuncCopies</key>
+			<false/>
+			<key>FuncCarbonPrint</key>
+			<false/>
+			<key>FuncDashPrint</key>
+			<false/>
+			<key>FuncFeedMode</key>
+			<false/>
+		</dict>
+		<key>PaperSize</key>
+		<array>
+			<string>Custom</string>
+			<string>12mm</string>
+			<string>29mm</string>
+			<string>38mm</string>
+			<string>50mm</string>
+			<string>54mm</string>
+			<string>62mm</string>
+			<string>17mm x 54mm</string>
+			<string>17mm x 87mm</string>
+			<string>23mm x 23mm</string>
+			<string>29mm x 42mm</string>
+			<string>29mm x 90mm</string>
+			<string>38mm x 90mm</string>
+			<string>39mm x 48mm</string>
+			<string>52mm x 29mm</string>
+			<string>62mm x 29mm</string>
+			<string>62mm x 100mm</string>
+			<string>60mm x 86mm</string>
+		</array>
+	</dict>
+	<key>Brother QL-720NW</key>
+	<dict>
+		<key>Capabilities</key>
+		<dict>
+			<key>FuncDensity</key>
+			<true/>
+			<key>FuncCustomPaper</key>
+			<true/>
+			<key>FuncAutoCut</key>
+			<true/>
+			<key>FuncChainPrint</key>
+			<false/>
+			<key>FuncHalfCut</key>
+			<false/>
+			<key>FuncSpecialTape</key>
+			<false/>
+			<key>FuncCopies</key>
+			<false/>
+			<key>FuncCarbonPrint</key>
+			<false/>
+			<key>FuncDashPrint</key>
+			<false/>
+			<key>FuncFeedMode</key>
+			<false/>
+		</dict>
+		<key>PaperSize</key>
+		<array>
+			<string>Custom</string>
+			<string>12mm</string>
+			<string>29mm</string>
+			<string>38mm</string>
+			<string>50mm</string>
+			<string>54mm</string>
+			<string>62mm</string>
+			<string>17mm x 54mm</string>
+			<string>17mm x 87mm</string>
+			<string>23mm x 23mm</string>
+			<string>29mm x 42mm</string>
+			<string>29mm x 90mm</string>
+			<string>38mm x 90mm</string>
+			<string>39mm x 48mm</string>
+			<string>52mm x 29mm</string>
+			<string>62mm x 29mm</string>
+			<string>62mm x 100mm</string>
+			<string>60mm x 86mm</string>
+		</array>
+	</dict>
+	<key>Brother PT-E550W</key>
+	<dict>
+		<key>Capabilities</key>
+		<dict>
+			<key>FuncDensity</key>
+			<false/>
+			<key>FuncCustomPaper</key>
+			<false/>
+			<key>FuncAutoCut</key>
+			<true/>
+			<key>FuncChainPrint</key>
+			<true/>
+			<key>FuncHalfCut</key>
+			<true/>
+			<key>FuncSpecialTape</key>
+			<true/>
+			<key>FuncCopies</key>
+			<true/>
+			<key>FuncCarbonPrint</key>
+			<false/>
+			<key>FuncDashPrint</key>
+			<false/>
+			<key>FuncFeedMode</key>
+			<false/>
+		</dict>
+		<key>PaperSize</key>
+		<array>
+			<string>3.5 mm</string>
+			<string>6 mm</string>
+			<string>9 mm</string>
+			<string>12 mm</string>
+			<string>18 mm</string>
+			<string>24 mm</string>
+			<string>HS 5.8 mm</string>
+			<string>HS 8.8 mm</string>
+			<string>HS 11.7 mm</string>
+			<string>HS 17.7 mm</string>
+			<string>HS 23.6 mm</string>
+		</array>
+	</dict>
+	<key>Brother PT-P750W</key>
+	<dict>
+		<key>Capabilities</key>
+		<dict>
+			<key>FuncDensity</key>
+			<false/>
+			<key>FuncCustomPaper</key>
+			<false/>
+			<key>FuncAutoCut</key>
+			<true/>
+			<key>FuncChainPrint</key>
+			<true/>
+			<key>FuncHalfCut</key>
+			<true/>
+			<key>FuncSpecialTape</key>
+			<true/>
+			<key>FuncCopies</key>
+			<true/>
+			<key>FuncCarbonPrint</key>
+			<false/>
+			<key>FuncDashPrint</key>
+			<false/>
+			<key>FuncFeedMode</key>
+			<false/>
+		</dict>
+		<key>PaperSize</key>
+		<array>
+			<string>3.5 mm</string>
+			<string>6 mm</string>
+			<string>9 mm</string>
+			<string>12 mm</string>
+			<string>18 mm</string>
+			<string>24 mm</string>
+			<string>HS 5.8 mm</string>
+			<string>HS 8.8 mm</string>
+			<string>HS 11.7 mm</string>
+			<string>HS 17.7 mm</string>
+			<string>HS 23.6 mm</string>
+		</array>
+	</dict>
+	<key>Brother TD-2120N</key>
+	<dict>
+		<key>Capabilities</key>
+		<dict>
+			<key>FuncDensity</key>
+			<true/>
+			<key>FuncCustomPaper</key>
+			<true/>
+			<key>FuncAutoCut</key>
+			<false/>
+			<key>FuncChainPrint</key>
+			<false/>
+			<key>FuncHalfCut</key>
+			<false/>
+			<key>FuncSpecialTape</key>
+			<false/>
+			<key>FuncCopies</key>
+			<false/>
+			<key>FuncCarbonPrint</key>
+			<false/>
+			<key>FuncDashPrint</key>
+			<false/>
+			<key>FuncFeedMode</key>
+			<false/>
+		</dict>
+		<key>PaperSize</key>
+		<array>
+			<string>Custom</string>
+			<string>RD 57mm</string>
+			<string>RD 58mm</string>
+			<string>RD 30mm x 30mm</string>
+			<string>RD 40mm x 40mm</string>
+			<string>RD 40mm x 50mm</string>
+			<string>RD 40mm x 60mm</string>
+			<string>RD 50mm x 30mm</string>
+			<string>RD 51mm x 26mm</string>
+			<string>RD 60mm x 60mm</string>
+		</array>
+	</dict>
+	<key>Brother TD-2130N</key>
+	<dict>
+		<key>Capabilities</key>
+		<dict>
+			<key>FuncDensity</key>
+			<true/>
+			<key>FuncCustomPaper</key>
+			<true/>
+			<key>FuncAutoCut</key>
+			<false/>
+			<key>FuncChainPrint</key>
+			<false/>
+			<key>FuncHalfCut</key>
+			<false/>
+			<key>FuncSpecialTape</key>
+			<false/>
+			<key>FuncCopies</key>
+			<false/>
+			<key>FuncCarbonPrint</key>
+			<false/>
+			<key>FuncDashPrint</key>
+			<false/>
+			<key>FuncFeedMode</key>
+			<false/>
+		</dict>
+		<key>PaperSize</key>
+		<array>
+			<string>Custom</string>
+			<string>RD 57mm</string>
+			<string>RD 58mm</string>
+			<string>RD 30mm x 30mm</string>
+			<string>RD 40mm x 40mm</string>
+			<string>RD 40mm x 50mm</string>
+			<string>RD 40mm x 60mm</string>
+			<string>RD 50mm x 30mm</string>
+			<string>RD 51mm x 26mm</string>
+			<string>RD 60mm x 60mm</string>
+		</array>
+	</dict>
+	<key>Brother PJ-673</key>
+	<dict>
+		<key>Capabilities</key>
+		<dict>
+			<key>FuncDensity</key>
+			<true/>
+			<key>FuncCustomPaper</key>
+			<false/>
+			<key>FuncAutoCut</key>
+			<false/>
+			<key>FuncChainPrint</key>
+			<false/>
+			<key>FuncHalfCut</key>
+			<false/>
+			<key>FuncSpecialTape</key>
+			<false/>
+			<key>FuncCopies</key>
+			<true/>
+			<key>FuncCarbonPrint</key>
+			<true/>
+			<key>FuncDashPrint</key>
+			<true/>
+			<key>FuncFeedMode</key>
+			<true/>
+		</dict>
+		<key>PaperSize</key>
+		<array>
+			<string>A4_CutSheet</string>
+			<string>A4_Roll</string>
+			<string>A4_PerforatedRoll</string>
+			<string>A4_PerforatedRollRetract</string>
+			<string>LETTER_CutSheet</string>
+			<string>LETTER_Roll</string>
+			<string>LETTER_PerforatedRoll</string>
+			<string>LETTER_PerforatedRollRetract</string>
+			<string>LEGAL_CutSheet</string>
+			<string>LEGAL_Roll</string>
+			<string>LEGAL_PerforatedRoll</string>
+			<string>LEGAL_PerforatedRollRetract</string>
+			<string>Infinite</string>
+			<string>A5_CutSheet</string>
+		</array>
+	</dict>
+</dict>
+</plist>
